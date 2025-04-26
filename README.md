@@ -32,8 +32,14 @@ cd MovieMate
 # Install dependencies
 npm install
 
-# Create a `.env` file and add your TMDB API key
-VITE_TMDB_API_KEY=your_tmdb_api_key
+# Add your TMDB API key
+Open `src/services/api.js`
+Replace the value of `API_KEY` with your TMDB API key
 
 # Run the app
 npm run dev
+```
+---
+## Chatify Preview
+---
+![MovieMate Preview](https://res.cloudinary.com/dgzkgmldz/image/upload/v1745688919/Screenshot_2025-04-26_230129_bxd9te.png)
