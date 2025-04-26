@@ -40,6 +40,6 @@ Replace the value of `API_KEY` with your TMDB API key
 npm run dev
 ```
 ---
-## Chatify Preview
+## MovieMate Preview
 ---
 ![MovieMate Preview](https://res.cloudinary.com/dgzkgmldz/image/upload/v1745688919/Screenshot_2025-04-26_230129_bxd9te.png)
